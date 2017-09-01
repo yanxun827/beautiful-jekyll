@@ -1,0 +1,10 @@
+---
+layout: post
+title: Deploying Django Locally
+subtitle: A full walkthrough on Raspberry Pi
+---
+
+Django is one of the most popular Python web framework out there, allowing developers to build websites easily without tediously writing similar code for each websites. As a ubiquitous web framework, there are tons of resources on the Internet for deploying on third-party hosting solutions such as PythonAnywhere, Heroku, etc. However there aren't many for hosting on a local physical server, and I have to do alot of research to figure out how everything works, this is my documentation on my learning journey and hopefully it can be of use and improved upon.
+
+For this walkthrough I will be using a Raspberry Pi 3 running on Raspbian, but any Linux distros should work the same (I hope). 
+
